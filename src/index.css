@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@300&display=swap');
+
+
+body{
+  font-family: 'Encode Sans Expanded', sans-serif;
+  background-image: url('./Images/light-patten.svg');
+}
+
+nav , .foot{
+background-color: #eee;
+}
+
+a{
+  text-decoration:  none !important;
+}
+
+.item a {
+color : white !important;
+}
